@@ -20,5 +20,5 @@ Si quiere saber más respecto a Framework Mercury: **https://youtu.be/lyI4OOMfAa
 ## Resultado
 
 ![gif-1](https://github.com/jackonedev/timeseries-presentation/blob/main/gif/timeseries-presentation-1.gif?raw=true)
-![gif-2](https://github.com/jackonedev/timeseries-presentation/blob/main/gif/timeseries-presentation-2.gif?raw=true)
 ![gif-3](https://github.com/jackonedev/timeseries-presentation/blob/main/gif/timeseries-presentation-3.gif?raw=true)
+![gif-2](https://github.com/jackonedev/timeseries-presentation/blob/main/gif/timeseries-presentation-2.gif?raw=true)
